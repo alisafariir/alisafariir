@@ -1,3 +1,4 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -57,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alisafariir/alisafariir/output/snake.svg" alt="Snake animation" />
+<img src="https://gist.github.com/user-attachments/assets/7183f634-f3c4-4c51-81f1-e138c4a85e3b" alt="Snake animation" />
 
 ###
 
@@ -78,3 +79,4 @@
 </div>
 
 ###
+<img src="https://gist.github.com/user-attachments/assets/8e2253f5-cdb1-4c09-acc9-828b312f79b2" alt="myoctocat" />

@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://gist.github.com/user-attachments/assets/7183f634-f3c4-4c51-81f1-e138c4a85e3b" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alisafariir/alisafariir/b51980213db0aa26b4218d9c446b4de8dc47ceeb/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -79,4 +79,4 @@
 </div>
 
 ###
-<img src="https://gist.github.com/user-attachments/assets/8e2253f5-cdb1-4c09-acc9-828b312f79b2" alt="myoctocat" />
+<img src="https://raw.githubusercontent.com/alisafariir/alisafariir/refs/heads/main/octocat-1731700696404.png" alt="myoctocat" />
